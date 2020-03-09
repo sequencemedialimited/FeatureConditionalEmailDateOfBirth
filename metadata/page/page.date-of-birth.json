@@ -1,0 +1,18 @@
+{
+  "_id": "page.date-of-birth",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.date-of-birth--date.auto_name__2",
+      "_type": "date",
+      "legend": "Date of birth",
+      "name": "auto_name__2"
+    }
+  ],
+  "sectionHeading": "Date section heading",
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "defined"
+  },
+  "url": "date-of-birth"
+}
