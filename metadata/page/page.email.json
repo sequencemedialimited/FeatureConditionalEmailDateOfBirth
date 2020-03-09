@@ -7,12 +7,7 @@
       "_type": "email",
       "hint": "Email hint text",
       "label": "Email",
-      "name": "auto_name__5",
-      "show": {
-        "identifier": "auto_name__1",
-        "operator": "is",
-        "value": "yes"
-      }
+      "name": "auto_name__5"
     }
   ],
   "sectionHeading": "Email section heading",
